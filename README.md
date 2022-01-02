@@ -10,8 +10,11 @@ with rank k is equivalent to answering the question: If the array were sorted in
 ## For example:
 
 • The maximum of a set of elements is the last order statistics: k=n.
+
 • The minimum of a set of elements is the first order statistic: k = 1.
+
 • The median key (Lower median): k = floor((n+1)/2)
+
 • The second smallest key: k = 2
 
 
