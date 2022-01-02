@@ -1,4 +1,4 @@
-## Select-algorithm
+# Select-algorithm
 Empirical study (Select algorithm)
 
 ## Introduction
@@ -7,7 +7,7 @@ Problem (Finding the Kth element of Array): Find an element with rank k in an ar
 through n; the elements in Array are assumed to be unsorted, where 1 <= k <= n. Finding an element
 with rank k is equivalent to answering the question: If the array were sorted in non-decreasing order, which element would be in Array[k]?.
 
-# For example:
+## For example:
 
 • The maximum of a set of elements is the last order statistics: k=n.
 • The minimum of a set of elements is the first order statistic: k = 1.
@@ -42,7 +42,7 @@ Sorted in revers order : 8,7,5,4,3,2,1
 Semi sorted : 1,2,3,4,5,6,1,2,3,4
 
 
-# Measurements Factors 
+## Measurements Factors 
 
 Running Time (time in Milliseconds)
 
