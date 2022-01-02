@@ -1,4 +1,4 @@
-# Select-algorithm
+# Select problem algorithm
 Empirical study (Select algorithm)
 
 ## Introduction
